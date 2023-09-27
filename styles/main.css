@@ -11,7 +11,7 @@ html, body {
 }
 
 p {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   
   font-size: 1em;
   line-height: 1.4em;
@@ -55,6 +55,7 @@ header {
 .contact-details {
   float: right;
   margin-top: 50px;
+  margin-right: 25px;
   
   font-size: 1.25em;
 }
@@ -115,6 +116,15 @@ section:last-child {
   font-size: 1em;
   color: #444444;
 }
+
+.areas {
+  margin-bottom: 20px;
+  column-count:2;
+ 
+  font-size: 1em;
+  color: #444444;
+}
+
 
 .langs {
   margin-top: 5px;
